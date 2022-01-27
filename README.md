@@ -4,8 +4,8 @@
 - [ ] Jogo da forca
 - [ ] Palavra-cruzada
 - [ ] 21
-- [ ] Impar ou par
-- [ ] Pedra, Papel ou Eesoura
+- [ ] Impar ou Par
+- [ ] Pedra, Papel ou Tesoura
 
 # Regras do jogo
 
