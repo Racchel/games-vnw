@@ -12,18 +12,18 @@
 *  Decidir quem vai ser o **jogador 1: X** ou **jogador2: O**
 
 * se repete:
-   * O jogador 1 escolhe uma das 9 posições iniciais e coloca o X
-   * O jogador 2 escolhe uma das 8 posições restantes e coloca a O
-   * O jogador 1 escolhe uma das 7 posições iniciais e coloca o X
+   * O jogador 1 escolhe uma das 9 posições iniciais e coloca o X,
+   * O jogador 2 escolhe uma das 8 posições restantes e coloca a O,
+   * O jogador 1 escolhe uma das 7 posições iniciais e coloca o X ...
 * Até alguém vencer o jogo ou dar velha.
 
 ## Esquema do jogo da velha
 
-linhas   | coluna1   |  coluna2  |  coluna3  |
+Jogo     | coluna1   |  coluna2  |  coluna3  |
 ---------| ----------| ----------| ----------|
-linha1   | [0]       | [1]       | [2]       |
-linha2   | [3]       | [4]       | [5]       |
-linh3    | [6]       | [7]       | [8]       |
+linha1   |   [ 0 ]   |   [ 1 ]   |   [ 2 ]   |
+linha2   |   [ 3 ]   |   [ 4 ]   |   [ 5 ]   |
+linha3   |   [ 6 ]   |   [ 7 ]   |   [ 8 ]   |
 
 
 ## Como alguém vence o jogo?
