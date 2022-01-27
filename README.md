@@ -19,11 +19,11 @@
 
 ## Esquema do jogo da velha
 
-Jogo     | coluna1   |  coluna2  |  coluna3  |
----------| ----------| ----------| ----------|
-linha1   |   [ 0 ]   |   [ 1 ]   |   [ 2 ]   |
-linha2   |   [ 3 ]   |   [ 4 ]   |   [ 5 ]   |
-linha3   |   [ 6 ]   |   [ 7 ]   |   [ 8 ]   |
+Jogo         | coluna1   |  coluna2  |  coluna3  |
+-------------| ----------| ----------| ----------|
+**linha1**   |   [ 0 ]   |   [ 1 ]   |   [ 2 ]   |
+**linha2**   |   [ 3 ]   |   [ 4 ]   |   [ 5 ]   |
+**linha3**   |   [ 6 ]   |   [ 7 ]   |   [ 8 ]   |
 
 
 ## Como alguém vence o jogo?
