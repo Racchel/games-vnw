@@ -1,11 +1,11 @@
 # Ideias de jogos
 
-1. [x] Jogo da velha
-2. [] Jogo da forca
-3. [] Palavra-cruzada
-4. [] 21
-5. [] Impar ou par
-6. [] Pedra, Papel ou Eesoura
+- [x] Jogo da velha
+- [ ] Jogo da forca
+- [ ] Palavra-cruzada
+- [ ] 21
+- [ ] Impar ou par
+- [ ] Pedra, Papel ou Eesoura
 
 # Regras do jogo
 
