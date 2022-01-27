@@ -54,7 +54,7 @@ Jogo         | coluna1   |  coluna2  |  coluna3  |
 ## O que precisamos usar?
 
 1. Estrutura e tipo de dados
-2. If/Else
+2. IF/Else
 3. For e While
 4. Funções
 5. Estrutura de dados simples (Array)
